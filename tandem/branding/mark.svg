@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="296 246 450 548" role="img" aria-label="Tandem">
-<defs><filter id="s" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#0B2A4A" flood-opacity="0.18"/></filter>
-<linearGradient id="f" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5FAAF0"/><stop offset="1" stop-color="#2F80D6"/></linearGradient></defs>
-<g transform="translate(322 264) scale(1.5)"><path d="M0 0 L0 196 L50 152 L84 228 L120 212 L86 138 L148 138 Z" fill="#B9DCF8"/></g>
-<g filter="url(#s)" transform="translate(492 416) scale(1.5)"><path d="M0 0 L0 196 L50 152 L84 228 L120 212 L86 138 L148 138 Z" fill="url(#f)" stroke="#FFFFFF" stroke-width="12" stroke-linejoin="round" paint-order="stroke"/></g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="Tandem" role="img" viewBox="296 246 450 548"><defs><filter id="s" width="180%" height="180%" x="-40%" y="-40%"><feDropShadow dx="0" dy="8" flood-color="#0B2A4A" flood-opacity=".18" stdDeviation="10"/></filter><linearGradient id="f" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#5FAAF0"/><stop offset="1" stop-color="#2F80D6"/></linearGradient></defs><g><path fill="#B9DCF8" d="M0 0 L0 196 L50 152 L84 228 L120 212 L86 138 L148 138 Z" transform="translate(322 264) scale(1.5)"/></g><g filter="url(#s)" transform="translate(492 416) scale(1.5)"><path fill="url(#f)" stroke="#FFF" stroke-linejoin="round" stroke-width="12" d="M0 0 L0 196 L50 152 L84 228 L120 212 L86 138 L148 138 Z" paint-order="stroke"/></g></svg>
